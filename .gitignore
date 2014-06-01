@@ -29,3 +29,7 @@ camtri.prv/tmp9365SMA/preview.ps
 *.dsc
 
 chapters/_region_.tex
+
+chapters/Output/ch02.fdb_latexmk
+
+chapters/Output/ch02.fls
