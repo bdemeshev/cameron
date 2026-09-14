@@ -1,41 +1,24 @@
-
-.aux
-
+*.fdb_latexmk
+*.fls
 *.aux
-
 *.gz
-
 *.pdf
-
 *.log
-
 *.out
-
-.tex
-
-camtri.blg
-
-camtri.zip
+*.blg
+*.dsc
+*.dvi
 
 camtri.prv/tmp9365gCx/*.*
 camtri.prv/tmp93655je/*.*
 
-
-
-*.dvi
-
 camtri.prv/tmp9365SMA/preview.ps
 
-*.dsc
-
 chapters/_region_.tex
-
 chapters/Output/ch02.fdb_latexmk
-
 chapters/Output/ch02.fls
 
+camtri.zip
 cameron.zip
-
 cameron_author_index.zip
-
 cameron_author_subject.zip
